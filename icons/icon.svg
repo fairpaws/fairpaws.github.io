@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd1df"/><stop offset="1" stop-color="#ffe9c7"/></linearGradient></defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <g opacity=".55">
+    <rect x="64" y="64" width="128" height="128" rx="26" fill="#b9d7f7"/><rect x="320" y="64" width="128" height="128" rx="26" fill="#bfe8b8"/>
+    <rect x="64" y="320" width="128" height="128" rx="26" fill="#d8c6f4"/><rect x="320" y="320" width="128" height="128" rx="26" fill="#fde49b"/>
+  </g>
+  <g transform="translate(116 70) scale(2.8)">
+    <path d="M16 46 L20 10 L44 26 Z" fill="#ff9a52"/><path d="M84 46 L80 10 L56 26 Z" fill="#ff9a52"/>
+    <path d="M22 36 L24 18 L38 28 Z" fill="#ffd6e3"/><path d="M78 36 L76 18 L62 28 Z" fill="#ffd6e3"/>
+    <ellipse cx="50" cy="56" rx="38" ry="33" fill="#ffb86b"/>
+    <path d="M50 22 v9 M41 24 l2 8 M59 24 l-2 8" stroke="#e98a3f" stroke-width="3.4" stroke-linecap="round"/>
+    <ellipse cx="27" cy="62" rx="6" ry="3.6" fill="#ff8fb1" opacity=".6"/><ellipse cx="73" cy="62" rx="6" ry="3.6" fill="#ff8fb1" opacity=".6"/>
+    <path d="M36 57.9 C 25.6 51.9, 31.5 44.5, 36 49.7 C 40.5 44.5, 46.4 51.9, 36 57.9 Z" fill="#ff4f7b"/>
+    <path d="M64 57.9 C 53.6 51.9, 59.5 44.5, 64 49.7 C 68.5 44.5, 74.4 51.9, 64 57.9 Z" fill="#ff4f7b"/>
+    <path d="M46 60 h8 l-4 4 z" fill="#ff7aa2"/>
+    <path d="M42 65 q 8 11 16 0 z" fill="#5a2333"/>
+  </g>
+  <path d="M384 72 l10 26 26 10 -26 10 -10 26 -10 -26 -26 -10 26 -10z" fill="#fff" opacity=".9"/>
+  <text x="256" y="452" text-anchor="middle" font-family="ui-rounded, Nunito, Arial Rounded MT Bold, system-ui, sans-serif" font-weight="900" font-size="76" fill="#5a2a48">Fair Paws</text>
+</svg>
